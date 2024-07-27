@@ -1,7 +1,8 @@
+![MasterHead](https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif)a
 <h1 align="center">Hi 👋, I'm karthikeyan S</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
-<p align="left"> <img src="https://th.bing.com/th?q=GIS+Big+Data&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247">
+<p align="centre"> <img src="https://th.bing.com/th?q=GIS+Big+Data&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.3&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247">
 
 - 🌱 I’m currently learning **flutter,python**
 
