@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif)a
+![MasterHead](https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif)
 <h1 align="center">Hi 👋, I'm karthikeyan S</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
 
